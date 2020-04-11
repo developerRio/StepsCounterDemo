@@ -1,6 +1,6 @@
 # StepsCounterDemo
 A sample which shows how to record your Daily Steps via Google's Fit API, with functionality to record & read steps perfectly,
-entire code is made with ♥ in Kotlin. 
+entire code is made with ❤ in Kotlin. 
 
 # References 
 
