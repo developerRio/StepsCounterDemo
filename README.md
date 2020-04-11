@@ -16,7 +16,7 @@ If you encounter this error, check the following steps:
     
         1.Ensure that your package name for your credentials matches the sample.
         2.Ensure the package name matches the applicationId in the app/build.gradle file.
-        3.Ensure the Signing-certificate fingerprint is entered correctly.
+        3.Ensure the Signing-certificate fingerprint is entered correctly. 
         
         
 Happy Coding
